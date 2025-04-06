@@ -2,5 +2,5 @@ name: Alias
 version: '1.0-SNAPSHOT'
 main: net.mythofy.alias.Alias
 api-version: '1.21'
-authors: [ Kingdragoncat ]
-description: My first plugin!!!!
+authors: [ Kingdragoncat Tavuc ]
+description: (this is my super awesome description!)
